@@ -1,7 +1,13 @@
 @media (min-width: 768px){
     .container {
         max-width: 80%;
+        min-width: 50%;
     }
+}
+
+.container {
+    flex: 1 0 auto;
+
 }
 
 p {
