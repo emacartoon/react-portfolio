@@ -1,0 +1,119 @@
+[
+    {
+        "name": "MongoDB",
+        "abbrv": "M",
+        "link": "",
+        "icon": ""
+    },
+
+    {
+        "name": "Express.js",
+        "abbrv": "E",
+        "link": "",
+        "icon": ""
+    },
+
+    {
+        "name": "React.js",
+        "abbrv": "R",
+        "link": "",
+        "icon": ""
+    },
+
+    {
+        "name": "Node.js",
+        "abbrv": "N",
+        "link": "",
+        "icon": ""
+    },
+    {
+        "name": "JavaScript",
+        "abbrv": "JS",
+        "link" : "",
+        "icon" : ""
+    },
+    {
+        "name": "HTML 5",
+        "abbrv": "H5",
+        "link": "",
+        "icon": ""
+    },
+
+    {
+        "name": "CSS 3",
+        "abbrv": "C3",
+        "link": "",
+        "icon": ""
+    },
+    
+    {
+        "name": "Adobe XD",
+        "abbrv": "Xd",
+        "link": "",
+        "icon": ""
+    },
+
+    {
+        "name": "Illustrator",
+        "abbrv": "Ai",
+        "link": "",
+        "icon": ""
+    },
+
+    {
+        "name": "Photoshop",
+        "abbrv": "Ps",
+        "link": "",
+        "icon": ""
+    },
+
+    {
+        "name": "InDesign",
+        "abbrv": "Id",
+        "link": "",
+        "icon": ""
+    },
+
+    {
+        "name": "Animate",
+        "abbrv": "An",
+        "link": "",
+        "icon": ""
+    },
+
+    {
+        "name": "Premiere Pro",
+        "abbrv": "Pr",
+        "link": "",
+        "icon": ""
+    },
+
+    {
+        "name": "Acrobat",
+        "abbrv": "A",
+        "link": "",
+        "icon": ""
+    },
+
+    {
+        "name": "Excel",
+        "abbrv": "X",
+        "link": "",
+        "icon": ""
+    },
+
+    {
+        "name": "PowerPoint",
+        "abbrv": "P",
+        "link": "",
+        "icon": ""
+    },
+
+    {
+        "name": "Word",
+        "abbrv": "W",
+        "link": "",
+        "icon": ""
+    }
+
+]

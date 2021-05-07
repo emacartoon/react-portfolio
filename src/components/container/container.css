@@ -1,0 +1,9 @@
+@media (min-width: 768px){
+    .container {
+        max-width: 80%;
+    }
+}
+
+p {
+    font-size: x-large;
+}

@@ -1,0 +1,34 @@
+[
+    {
+        "name": "mySQL",
+        "abbrv": "MS",
+        "link" : "",
+        "icon" : ""
+    },
+
+    {
+        "name": "AJAX",
+        "abbrv": "AJ",
+        "link" : "",
+        "icon" : ""
+    },
+
+    {
+        "name": "Ruby",
+        "abbrv": "Ru",
+        "link" : "",
+        "icon" : ""
+    },
+    {
+        "name": "Unity",
+        "abbrv": "U",
+        "link" : "",
+        "icon" : ""
+    },
+    {
+        "name": "C#",
+        "abbrv": "C#",
+        "link" : "",
+        "icon" : ""
+    }
+]

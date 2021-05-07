@@ -1,0 +1,16 @@
+.know {
+  min-width: 6rem;
+  min-height: 6rem;
+  border: var(--lav) solid 1px;
+  border-radius: 15px;
+  color: white;
+  background-color: var(--grey);
+  padding: 1rem 0rem 0rem 0rem;
+  margin: 0.5rem;
+  text-align: center;
+  line-height: 1;
+  flex-direction: row;
+
+  /* flex: 1 0 10%; */
+  font-size: 0.8em;
+}
