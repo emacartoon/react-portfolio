@@ -58,11 +58,35 @@ h2 {
   flex-wrap: wrap;
 }
 
+.flex-row-evenly {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
 .bar {
   margin: 1rem auto;
   padding: 1rem 1rem;
-  background-color: var(--bloo);
+  background-color: var(--teel);
   border-radius: 10px;
+}
+
+.links {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.iconDivs{
+  padding: 15px;
+  justify-content: space-evenly;
+}
+
+.downloadRes{
+  padding: 5px;
+  align-content: flex-end;
 }
 
 .intro {

@@ -1,0 +1,26 @@
+.projectCard {
+  border: 1px solid var(--grey);
+  border-radius: 10px;
+  padding: 15px;
+  margin: 15px auto;
+  color: var(--grey);
+  min-width: 30%;
+  text-align: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+@media (max-width: 767.98px) {
+  .projectCard {
+    min-width: 80%;
+  }
+}
+
+.projImg {
+  border-radius: 10px;
+}
+
+a {
+  text-decoration: none !important;
+  color: var(--grey) !important;
+}

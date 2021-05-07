@@ -17,7 +17,7 @@ class Work extends Component {
         <Container>
           <h2>Projects I've Completed</h2>
           <div>
-            <div className="flex-row-justify">
+            <div className="flex-row-evenly">
               {this.state.projects.map((project) => (
                 <Card
                   key={project.name}

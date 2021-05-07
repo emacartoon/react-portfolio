@@ -1,32 +1,32 @@
 [
     {
         "name": "Build A Band Group Project",
-        "img": "../imgs/Apple.png",
+        "img": "./imgs/BaB.png",
         "link": "https://github.com/Danomiterock/Build-a-Band"
     },
     {
         "name": "Fitness Tracker",
-        "img": "../imgs/Apple.png",
+        "img": "./imgs/Fit.png",
         "link": "https://wiggle-workout-tracker.herokuapp.com/"
     },
     {
         "name": "Team Profile Generator",
-        "img": "../imgs/Apple.png",
+        "img": "./imgs/TeamPro.png",
         "link": "https://github.com/emacartoon/Team-Profile-Generator"
     },
     {
         "name": "Employee Manager",
-        "img": "../imgs/Apple.png",
+        "img": "./imgs/EmpMng.png",
         "link": "https://github.com/emacartoon/Employee-Tracker"
     },
     {
         "name": "Employee Directory",
-        "img": "../imgs/Apple.png",
+        "img": "./imgs/EmpDir.png",
         "link": "https://fervent-dubinsky-df27f3.netlify.app/"
     },
     {
         "name": "Day Scheduler",
-        "img": "../imgs/Apple.png",
+        "img": "./imgs/Day.png",
         "link": "https://emacartoon.github.io/Scheduler/index.html"
     }
 ]

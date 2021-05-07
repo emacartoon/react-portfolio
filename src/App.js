@@ -5,7 +5,6 @@ import About from "./pages/About";
 import Work from "./pages/Work";
 import Contact from "./pages/Contact";
 import Header from "./components/header/header.js";
-import Nav from "./components/nav/nav.js";
 import Wrapper from "./components/wrapper/wrapper.js";
 import Footer from "./components/footer/footer.js";
 
@@ -14,7 +13,6 @@ function App() {
     <Router>
       <div>
         <Header />
-        <Nav />
         <Wrapper>
           <>
             <Route exact path="/" component={About} />
