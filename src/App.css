@@ -45,7 +45,7 @@
 h1 {
   font-size: 5rem !important;
   font-weight: bolder;
-  margin-top: -5rem;
+  /* margin-top: -5rem; */
 }
 
 h2 {
@@ -96,4 +96,9 @@ h2 {
   .intro {
     max-width: 100%;
   }
+}
+
+.footer,
+.push {
+  height: 50px;
 }
