@@ -12,6 +12,13 @@ class Work extends Component {
     this.setState({ projects });
   };
 
+  state = { working };
+
+  constructList = (id) => {
+    const working = this.state.working.filter((work) => work.id !== id);
+    this.setState({ working });
+  };
+
   render() {
     return (
       <div>
@@ -29,6 +36,7 @@ class Work extends Component {
               ))}
             </div>
           </div>
+
           <h2>Projects I'm Currently Working On</h2>
           <div>
             <div className="flex-row-evenly">
