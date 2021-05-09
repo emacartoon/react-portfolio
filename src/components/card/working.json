@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Build A Band Group Project",
+        "img": "./imgs/BaB.png",
+        "link": "https://github.com/Danomiterock/Build-a-Band"
+    },
+    {
+        "name": "Can I Eat That? Group Project",
+        "img": "./imgs/CanI.png",
+        "link": "https://github.com/Drowekorte/can-i-eat-that"
+    }
+]
