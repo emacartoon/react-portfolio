@@ -31,7 +31,7 @@ function Contact() {
           </div>
           <div className="iconDivs">
             <a
-              href="https://emacartoon.myportfolio.com"
+              href="https://www.emacartoon.art"
               target="_blank"
               rel="noreferrer noopener"
             >
@@ -58,7 +58,13 @@ function Contact() {
         </div>
         <div>
           <div className="downloadRes">
-            <a href="/resume/EmaCartoon_Resume.pdf" target="_blank" rel="noreferrer noopener" >Download Resume</a>
+            <a
+              href="/resume/EmaCartoon_Resume.pdf"
+              target="_blank"
+              rel="noreferrer noopener"
+            >
+              Download Resume
+            </a>
           </div>
         </div>
 

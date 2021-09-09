@@ -1,12 +1,17 @@
 [
-    {
-        "name": "Build A Band Group Project",
-        "img": "./imgs/BaB.png",
-        "link": "https://github.com/Danomiterock/Build-a-Band"
-    },
-    {
-        "name": "Can I Eat That? Group Project",
-        "img": "./imgs/CanI.png",
-        "link": "https://github.com/Drowekorte/can-i-eat-that"
-    }
+  {
+    "name": "Coffee Shooters",
+    "img": "./imgs/YKvsCM.png",
+    "link": "https://scratch.mit.edu/projects/487719173"
+  },
+  {
+    "name": "Build A Band Group Project",
+    "img": "./imgs/BaB.png",
+    "link": "https://github.com/Danomiterock/Build-a-Band"
+  },
+  {
+    "name": "Can I Eat That? Group Project",
+    "img": "./imgs/CanI.png",
+    "link": "https://github.com/Drowekorte/can-i-eat-that"
+  }
 ]

@@ -1,32 +1,32 @@
 [
-    {
-        "name": "E-Commerce Store Backend",
-        "img": "./imgs/ECom.png",
-        "link": "https://github.com/emacartoon/ecommerce-store"
-    },
-    {
-        "name": "Fitness Tracker",
-        "img": "./imgs/Fit.png",
-        "link": "https://wiggle-workout-tracker.herokuapp.com/"
-    },
-    {
-        "name": "Team Profile Generator",
-        "img": "./imgs/TeamPro.png",
-        "link": "https://github.com/emacartoon/Team-Profile-Generator"
-    },
-    {
-        "name": "Employee Manager",
-        "img": "./imgs/EmpMng.png",
-        "link": "https://github.com/emacartoon/Employee-Tracker"
-    },
-    {
-        "name": "Employee Directory",
-        "img": "./imgs/EmpDir.png",
-        "link": "https://fervent-dubinsky-df27f3.netlify.app/"
-    },
-    {
-        "name": "Day Scheduler",
-        "img": "./imgs/Day.png",
-        "link": "https://emacartoon.github.io/Scheduler/index.html"
-    }
+  {
+    "name": "E-Commerce Store Backend",
+    "img": "./imgs/ECom.png",
+    "link": "https://github.com/emacartoon/ecommerce-store"
+  },
+  {
+    "name": "Fitness Tracker",
+    "img": "./imgs/Fit.png",
+    "link": "https://wiggle-workout-tracker.herokuapp.com/"
+  },
+  {
+    "name": "Team Profile Generator",
+    "img": "./imgs/TeamPro.png",
+    "link": "https://github.com/emacartoon/Team-Profile-Generator"
+  },
+  {
+    "name": "Employee Manager",
+    "img": "./imgs/EmpMng.png",
+    "link": "https://github.com/emacartoon/Employee-Tracker"
+  },
+  {
+    "name": "Employee Directory",
+    "img": "./imgs/EmpDir.png",
+    "link": "https://fervent-dubinsky-df27f3.netlify.app/"
+  },
+  {
+    "name": "Day Scheduler",
+    "img": "./imgs/Day.png",
+    "link": "https://emacartoon.github.io/Scheduler/index.html"
+  }
 ]

@@ -7,6 +7,15 @@ class Work extends Component {
   render() {
     return (
       <div>
+        <div className="downloadRes">
+          <a
+            href="/resume/EmaCartoon_Resume.pdf"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            Download Resume
+          </a>
+        </div>
         <Container>
           <h2>Completed Projects</h2>
           <div>

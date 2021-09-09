@@ -35,7 +35,7 @@ class About extends Component {
                 chai.
               </p>
               <p>
-                I have 2 dogs, 6 cats, 8 chickens, a 20 gallon fishtank, and a
+                I have 2 dogs, 7 cats, 8 chickens, a 20 gallon fishtank, and a
                 lot of succulents.
               </p>
             </div>
