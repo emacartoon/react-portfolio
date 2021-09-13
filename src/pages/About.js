@@ -53,7 +53,7 @@ class About extends Component {
                 Essentially, I'm a artsy logic brain who wants to solve puzzles
                 and make cool and helpful programs for a living. Five years from
                 now, I'm hoping I'll have gotten to share a few of those
-                projects with the world and make people smile.
+                projects with the world and made people smile.
               </p>
             </div>
           </div>
