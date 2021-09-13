@@ -38,6 +38,23 @@ class About extends Component {
                 I have 2 dogs, 7 cats, 8 chickens, a 20 gallon fishtank, and a
                 lot of succulents.
               </p>
+              <h2>What is your quest?</h2>
+              <p>
+                I am a developer with a vast array of skills and experience on a
+                quest to transition into a role that is either primarily
+                engineering or an engineering+design hybrid role.
+              </p>
+              <p>
+                With my problem solver's mind I seek knowledge, best practices,
+                and to tackle the world's problems. I'd love to do that with a
+                team who can help me forge my way through the vast unknown.
+              </p>
+              <p>
+                Essentially, I'm a artsy logic brain who wants to solve puzzles
+                and make cool and helpful programs for a living. Five years from
+                now, I'm hoping I'll have gotten to share a few of those
+                projects with the world and make people smile.
+              </p>
             </div>
           </div>
 
