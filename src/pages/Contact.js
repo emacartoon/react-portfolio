@@ -31,7 +31,7 @@ function Contact() {
           </div>
           <div className="iconDivs">
             <a
-              href="https://www.emacartoon.art"
+              href="https://www.emmalysyk.art"
               target="_blank"
               rel="noreferrer noopener"
             >
